@@ -8,7 +8,7 @@
 #include <thread>
 #include <future>
 #include <string>
-#include <utility>   // std:pair<T,T>
+#include <utility>   // std:pair<T, T>
 #include <stdlib.h>
 #include <unistd.h>
 #include <iostream>
